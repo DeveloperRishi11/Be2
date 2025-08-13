@@ -10,3 +10,4 @@ Counter - Increment, decrement, and reset buttons
 Todo List - Add, complete, and delete tasks
 Real-time Updates - Shows current task count and counter value
 To be updated soon
+There are some errors in code
